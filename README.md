@@ -1,3 +1,2 @@
 # background-generator
-
-# Generates linear descent background dyanamically
+Generates linear descent background dyanamically
